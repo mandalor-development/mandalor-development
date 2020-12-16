@@ -3,7 +3,7 @@
 ----
 
 
-:man_technologist: I’m currently working as a senior software engineer at [MessengerPeople](www.messengerpeople.com/)
+:man_technologist: I’m currently working as a senior software engineer at [MessengerPeople](https://www.messengerpeople.com/)
 
 ![](https://komarev.com/ghpvc/?username=mandalor-development&color=blue)
 
